@@ -1,0 +1,8 @@
+#Ignore that files
+#
+
+*.cmd
+*.lnk
+*.jpg
+*.png
+
